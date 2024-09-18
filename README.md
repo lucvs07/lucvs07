@@ -2,7 +2,8 @@
 <div>
   <img style="display:flex" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvs07&layout=compact&langs_count=7&theme=nord"/>
   <img style="display:flex" src="https://streak-stats.demolab.com?user=lucvs07&theme=nord&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a>
-</div> 
+</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucvs07)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2>Recursos que eu utilizo</h2>
   <div style="display: inline-block">
     <img align="center" alt="icon python" src="https://img.shields.io/badge/Python-3f76a5?style=for-the-badge&logo=python&logoColor=FFD43B" />
