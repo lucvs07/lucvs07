@@ -10,8 +10,7 @@
   <div style="display: inline-block">
     <img align="center" alt="icon python" src="https://img.shields.io/badge/Python-3f76a5?style=for-the-badge&logo=python&logoColor=FFD43B" />
   </div>
-</div>
-
+  
 ##
 
 <h2>Contatos</h2>
