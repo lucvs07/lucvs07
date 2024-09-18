@@ -8,7 +8,7 @@
 
 <h2>TECH STACK</h2>
   <div style="display: inline-block">
-    [<img align="center" alt="icon html5" width="48" heigh="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+    <img align="center" alt="icon python" width="48" heigh="48" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />]
   </div>
 </div>
 
