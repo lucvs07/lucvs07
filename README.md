@@ -1,6 +1,7 @@
 <h1>Olá ! Eu sou Lucas Grecco</h1>
-<div style="display:flex;">
-  <img style="display:flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvs07&layout=compact&langs_count=7&theme=nord"/> | <img style="display:flex" src="https://streak-stats.demolab.com?user=lucvs07&theme=nord&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<div style="display:flex; flex-direction:collumn;">
+  <img style="display:flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvs07&layout=compact&langs_count=7&theme=nord"/>
+  <img style="display:flex" src="https://streak-stats.demolab.com?user=lucvs07&theme=nord&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a>
 </div> 
 <h2>Recursos que eu utilizo</h2>
   <div style="display: inline-block">
