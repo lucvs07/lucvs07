@@ -5,7 +5,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lucvs07&theme=nord&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 <div>
-  [![Lucas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucvs07&theme=nord)](https://github.com/lucvs07/github-readme-activity-graph)
+  ![github graph](https://activity-graph.herokuapp.com/graph?username=lucvs07&theme=nord)
 </div>
     
 ## Recursos que eu utilizo
