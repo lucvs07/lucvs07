@@ -8,7 +8,7 @@
 
 <h2>TECH STACK</h2>
   <div style="display: inline-block">
-    <img align="center" alt="icon python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="icon python" src="https://img.shields.io/badge/Python-3f76a5?style=for-the-badge&logo=python&logoColor=FFD43B" />
   </div>
 </div>
 
