@@ -3,16 +3,12 @@
   <a href="https://github.com/lucvs07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvs07&layout=compact&langs_count=7&theme=nord"/>
 </div>
-
-##
-
+    
 <h2>TECH STACK</h2>
   <div style="display: inline-block">
     <img align="center" alt="icon python" src="https://img.shields.io/badge/Python-3f76a5?style=for-the-badge&logo=python&logoColor=FFD43B" />
   </div>
   
-##
-
 <h2>Contatos</h2>
 <div>
   <a href = "mailto:lucas.rgrecco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
