@@ -1,10 +1,9 @@
 <h1>Olá ! Eu sou Lucas Grecco</h1>
 <div>
-  <a href="https://github.com/lucvs07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvs07&layout=compact&langs_count=7&theme=nord"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lucvs07&theme=nord&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=lucvs07&theme=nord&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div> 
-## Recursos que eu utilizo
+##Recursos que eu utilizo
   <div style="display: inline-block">
     <img align="center" alt="icon python" src="https://img.shields.io/badge/Python-3f76a5?style=for-the-badge&logo=python&logoColor=FFD43B" />
     <img align="center" alt="icon js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
