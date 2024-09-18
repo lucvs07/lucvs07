@@ -6,14 +6,9 @@
 
 ##
 
-<h2>Recursos que eu utilizo</h2>
+<h2>TECH STACK</h2>
   <div style="display: inline-block">
-    <img align="center" alt="icon html5" width="48" heigh="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="icon css" width="48" heigh="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-    <img align="center" alt="icon bootstrap" width="48" heigh="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
-    <img align="center" alt="icon php" width="48" heigh="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="icon javascript" width="48" heigh="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    <img align="center" alt="icon figma" width="48" heigh="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+    [<img align="center" alt="icon html5" width="48" heigh="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   </div>
 </div>
 
