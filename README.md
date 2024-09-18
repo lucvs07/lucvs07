@@ -5,8 +5,7 @@
 </div>
 <h2>Gráfico de Atividade</h2>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=lucvs07&theme=nord)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucvs07&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>Recursos que eu utilizo</h2>
   <div style="display: inline-block">
