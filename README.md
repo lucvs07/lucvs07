@@ -4,7 +4,7 @@
   <img style="display:flex" src="https://streak-stats.demolab.com?user=lucvs07&theme=nord&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a>
 </div>
 <h2>Gráfico de Atividade</h2>
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lucvs07&bg_color=272626&color=f6f4f6&line=0f8ef0&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucvs07&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2>Recursos que eu utilizo</h2>
   <div style="display: inline-block">
     <img align="center" alt="icon python" src="https://img.shields.io/badge/Python-3f76a5?style=for-the-badge&logo=python&logoColor=FFD43B" />
